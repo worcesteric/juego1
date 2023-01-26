@@ -2,7 +2,7 @@ import pygame, random, sys
 from pygame.locals import *
 from constantes import *
 
-# a ver si hace comit
+# a ver si hace comit sdfgdsf
 BLANCO = (255, 255, 255)
 NEGRO = (0, 0, 0)
 ROJO = (255, 0, 0)
