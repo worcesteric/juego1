@@ -2,17 +2,6 @@ import pygame, random, sys
 from pygame.locals import *
 from constantes import *
 
-BLANCO = (255, 255, 255)
-NEGRO = (0, 0, 0)
-ROJO = (255, 0, 0)
-AZUL = (0, 0, 255)
-VERDE = (0, 250, 0)
-
-HC74255 = (199, 66, 37)
-H61CD35 = (97, 205, 53)
-
-FPS = 60
-
 
 class Jugador(pygame.sprite.Sprite):
     # Sprite del jugador
